@@ -1,0 +1,34 @@
+.g{
+    width: 100%;
+    margin: 0px;
+    text-align: left;
+    color:antiquewhite;
+}
+
+.g button{ 
+    float: right;
+    border:2px solid white;
+}
+
+
+.big_chungus{
+    width:100%;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+#j{
+    background-color: gray;
+    line-height: 4;
+    margin-top:440px;
+   }
+    
+   .model-dialog{
+       width: 90%;
+   }
+   
+   .indtruction_image{
+       display: inline-block;
+       width:45%;
+   }
